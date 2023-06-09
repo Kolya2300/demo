@@ -1,8 +1,8 @@
 {
   "cars": [
     { "id": 1, "nameCar": "Mersedes", "price": 20000},
-    { "id": 2, "nameCar": "BMW", "price": 20000 },
-    { "id": 3, "nameCar": "Polo", "price": 20000}
+    { "id": 2, "nameCar": "BMW", "price": 20002},
+    { "id": 3, "nameCar": "Polo", "price": 20001}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
